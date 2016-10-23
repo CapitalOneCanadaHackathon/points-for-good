@@ -28,3 +28,11 @@ Importing Accessibility Theme
 - Click on "Template Editor"
 - Click on "Import"
 - Select the accessibility.zip file in the project
+
+About Docker
+------------
+
+Docker is a tool that lets you run servers as "containers" inside a host
+computer. It's a Linux technology, but it's also now available for
+[Windows](https://docs.docker.com/docker-for-windows/)
+and [Mac](https://docs.docker.com/docker-for-mac/)
